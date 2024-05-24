@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Aquí encontrarás mi [CV completo](<embed src="{{http://edergonzaleznieto.github.io}}/files/cv.pdf" width="600" height="700" type='application/pdf'>)
+Aquí encontrarás mi [CV completo](<embed src="https://edergonzaleznieto.github.io/files/cv.pdf" type="application/pdf" width="600px" height="500px" />)
 
 {% include base_path %}
 
