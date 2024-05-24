@@ -10,7 +10,7 @@ Aquí encontrarás [mi CV completo].
 
 {% include base_path %}
 
-Education
+Educación
 ======
 * Maestría en Lingüística, Universidad de Sonora, 2022-2024 (esperado).
 * Licenciatura en Lingüística, Universidad de Sonora, 2016-2020.
