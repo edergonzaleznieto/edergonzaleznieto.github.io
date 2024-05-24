@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Aquí encontrarás mi [CV completo]("https://edergonzaleznieto.github.io/files/cv.pdf")
+Aquí encontrarás mi [CV completo](https://edergonzaleznieto.github.io/files/cv.pdf)
 
 {% include base_path %}
 
