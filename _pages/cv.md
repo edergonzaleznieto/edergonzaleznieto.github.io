@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Aquí encontrarás [mi CV completo].
+Aquí encontrarás [mi CV completo](<embed src="{{ site.baseurl }}/files/EderGlez_CurriculumVitae_Mayo2024.pdf" width="600" height="700" type='application/pdf'>)
 
 {% include base_path %}
 
