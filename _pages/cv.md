@@ -23,9 +23,14 @@ Experiencia laboral
 * Tutor y diseñador de materiales en el diplomado "Competencias lingüísticas para docentes de educación indígena", Universidad de Sonora, 2019-2020.
 * Ayudante de investigación y docencia con la [Dra. María Rebeca Gutiérrez Estrada](https://investigadores.unison.mx/en/persons/maria-rebeca-gutierrez-estrada), Universidad de Sonora, 2017-2020.
 
-Ponencias
+Presentaciones
 =====
-*
+* González-Nieto, Eder. 2024._Object complement clauses and nominalization in Guarijío (Utoaztecan)_. Ponencia. Coloquio de Investigación Lingüística (2024-1), Universidad de Sonora.
+* González-Nieto, Eder. 2024. _Complement clauses and nominalization in Guarijío (Utoaztecan)_. Ponencia. XX Foro Internacional de Estudiantes de Letras y Lingüística, Universidad de Sonora.
+* Peregrina, Manuel, González-Nieto Eder y De Santiago Corina. 2023. _Experiencias de trabajo de campo en el noroeste de México_. Ponencia. Coloquio de Investigación Lingüística (2023-2), Universidad de Sonora. [Disponible en línea](https://www.youtube.com/watch?v=j6BHl9SaplA&t=13s).
+* González-Nieto, Eder. 2023. _Object complement clauses in Guarijío_. Cartel. Primer Feria de Posgrados UNISON, Universidad de Sonora.
+* González-Nieto, Eder. 2022. _Co-ocurrencia de la biodiversidad lingüística y biológica_. Ponencia. XXVII Verano de la Investigación Científica y Tecnológica del Pacífico.
+* González-Nieto, Eder. 2021. _Un acercamiento a las cláusulas completivas de objeto en guarijío_. Ponencia. Coloquio de Investigación Lingüística (2021-2), Universidad de Sonora. [Disponible en línea](https://www.youtube.com/watch?v=V5FqgqvDUvU&t=15s).
 
 Trabajo de campo y descripción lingüística
 ======
