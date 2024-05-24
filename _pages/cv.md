@@ -17,8 +17,8 @@ Education
 
 Experiencia laboral
 =====
-* Docente de preparatoria en Instituto Angloamericano (INAM), 2022-2023.
-* Ayudante de investigación, con la Dra. Zarina Estrada Fernández, Consejo Nacional de Humanidades, Ciencias y Tecnologías, 2021-2022.
+* Docente de preparatoria en Instituto Angloamericano, 2022-2023.
+* Ayudante de investigación con la [Dra. Zarina Estrada Fernández](https://investigadores.unison.mx/es/persons/zarina-estrada-fernandez), Consejo Nacional de Humanidades, Ciencias y Tecnologías, 2021-2022.
 * Tutor y diseñador de materiales en el diplomado "Competencias lingüísticas para docentes de educación indígena", Universidad de Sonora, 2019-2020.
 * Ayudante de investigación y docencia con la [Dra. María Rebeca Gutiérrez Estrada](https://investigadores.unison.mx/en/persons/maria-rebeca-gutierrez-estrada), Universidad de Sonora, 2017-2020.
 
