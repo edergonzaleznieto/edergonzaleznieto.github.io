@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Aquí encontrarás mi CV completo.
 
 {% include base_path %}
 
