@@ -21,7 +21,7 @@ repository               : "http://edergonzaleznieto.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.PNG"
+  avatar           : "profile_photo.PNG"
   name             : "Eder González Nieto"
   pronouns         : # example: "she/her"  
   bio              : "Estudiante de la Maestría en Lingüística"
