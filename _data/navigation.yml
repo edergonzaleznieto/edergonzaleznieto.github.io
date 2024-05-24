@@ -14,6 +14,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Guarijío"
+    url: /guarijio/
     
   - title: "Blog Posts"
     url: /year-archive/
