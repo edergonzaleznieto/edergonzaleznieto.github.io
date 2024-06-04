@@ -36,6 +36,18 @@ Características lingüísticas
 Recursos de interés
 -----
 
+**Gramáticas**
+* Gramática 1.
+* Gramática 2.
+
+**Diccionarios**
+* Diccionario 1.
+* Diccionario 2.
+
+**Textos**
+* Texto 1.
+* Texto 2.
+
 Referencias
 -----
 Haro Encinas, Jesús Armando y Ramón Martínez Coria. 2019. Patrimonio biocultural y despojo terriotrial en el Río Mayo. Los guarijíos de Sonora y el proyecto de presa Los Pilares-Bicentenario. Hermosillo: El Colegio de Sonora; Ciudad de Mexico: Universidad Nacional Autónoma de México.
