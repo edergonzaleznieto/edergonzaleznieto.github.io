@@ -18,5 +18,5 @@ Las localidades donde se habla guarijío en Sonora se ubican al suroeste del est
 
 De acuerdo con diveros censos, la población que habla la lengua oscila aproximadamente entre 2,100 y 3,000 hablantes distribuidos en ambos estados, aunque la mayoría se concentra en Sonora.
 
-===
 Referencias
+=====
