@@ -50,10 +50,14 @@ A continuación, encontrarás una lista breve de recursos sobre la lingüística
 * Barreras Aguilar, Isabel. 2014. _Makuráwe nawésari. Textos del guarijío de Sonora_. Hermosillo: Universidad de Sonora.
 * Aguilar Zeleny, Alejandro y Buitimea Romero, Gildardo. 2019. _Mamoria macurawe. Páginas para la historia del pueblo macurawe (guarijío) de Sonora_. Hermosillo: Instituto Sonorense de Cultura.
 
+**Materiales audiovisuales**
+* Material audiovisual 1.
+* Material audiovisual 2.
+
 Referencias
 -----
-Haro Encinas, Jesús Armando y Ramón Martínez Coria. 2019. Patrimonio biocultural y despojo terriotrial en el Río Mayo. Los guarijíos de Sonora y el proyecto de presa Los Pilares-Bicentenario. Hermosillo: El Colegio de Sonora; Ciudad de Mexico: Universidad Nacional Autónoma de México.
+Haro Encinas, Jesús Armando y Ramón Martínez Coria. 2019. _Patrimonio biocultural y despojo terriotrial en el Río Mayo_. Los guarijíos de Sonora y el proyecto de presa Los Pilares-Bicentenario. Hermosillo: El Colegio de Sonora; Ciudad de Mexico: Universidad Nacional Autónoma de México.
 
-Instituto Nacional de Estadística y Geografía [INEGI]. 2020. Censo de población y vivienda. Consultado el 01/07/2021. [Disponible en línea](http://cuentame.inegi.org.mx/hipertexto/todas_lenguas.htm).
+Instituto Nacional de Estadística y Geografía [INEGI]. 2020. _Censo de población y vivienda_. Consultado el 01/07/2021. [Disponible en línea](http://cuentame.inegi.org.mx/hipertexto/todas_lenguas.htm).
 
-Instituto Nacional de los Pueblos Indígenas [INPI]. 2015. Atlas de los Pueblos Indígenas de México – Guarijíos – Estadísticas. Consultado el 11/04/2024. [Disponible en línea](http://atlas.inpi.gob.mx/guarijios-estadisticas/).
+Instituto Nacional de los Pueblos Indígenas [INPI]. 2015. _Atlas de los Pueblos Indígenas de México – Guarijíos – Estadísticas_. Consultado el 11/04/2024. [Disponible en línea](http://atlas.inpi.gob.mx/guarijios-estadisticas/).
