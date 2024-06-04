@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-Esta contribución tiene como objetivo difundir la lengua guarijío, destacando información relevante sobre su afiliación genética, localización y número de hablantes, características lingüísticas y materiales de interés.
+Esta contribución tiene como objetivo difundir la lengua guarijío, destacando información relevante sobre su afiliación genética, localización y número de hablantes, características lingüísticas y materiales de interés para conocer más sobre la lengua y cultura.
 
 Familia lingüística
 -----
-El guarijío pertenece a la familia lingüística yutoazteca, una de las más grandes de América en términos del número de lenguas individuales, los hablantes de esas lenguas y el espacio geográfico que abarca (Campbell 1997; Mithun 1999). La familia generalmente se divide en la rama norteña que agrupa a las lenguas númicas, tübatulabal y hopi, y sureña que incluye a las lenguas tepimanas, taracahítas, tumbar, corachol y azteca. La siguiente figura muestra la división de la familia yutoazteca (Merril 2013). Según Glottolog (Hammarström et al. 2002), el número estimado de lenguas en la familia es 68, aunque un número más conservador figura entre 30.
+El guarijío pertenece a la familia lingüística yutoazteca, una de las más grandes de América en términos del número de lenguas individuales, los hablantes de esas lenguas y el espacio geográfico que abarca (Campbell 1997; Mithun 1999). La familia generalmente se divide en la rama norteña que agrupa a las lenguas númicas, tübatulabal y hopi, y sureña que incluye a las lenguas tepimanas, taracahítas, tumbar, corachol y azteca. La siguiente figura muestra la división de la familia yutoazteca (Merril 2013). Según [Glottolog](https://glottolog.org) (Hammarström et al. 2002), el número estimado de lenguas en la familia es 68, aunque un número más conservador figura entre 30.
 
 Figura. Clasificación de las lenguas yutoaztecas (Merril 2013).
 
@@ -36,17 +36,19 @@ Características lingüísticas
 Recursos de interés
 -----
 
+A continuación, encontrarás una lista breve de recursos sobre la lingüística que se ha hecho del guarijío.
+
 **Gramáticas**
-* Gramática 1.
-* Gramática 2.
+* Miller, Wick R. 1996. _Guarijío: gramática, textos y vocabulario_. México: Universidad Nacional Autónoma de México.
+* Félix Armendáriz, Rolando. 2007. _A grammar of River Warihío_. Múnich: Lincom.
 
 **Diccionarios**
-* Diccionario 1.
-* Diccionario 2.
+* Medina Murillo, Ana A. 2011. _Diccionario léxico-morfológico del guarijío_. México: Universidad Nacional Autónoma de México.
 
 **Textos**
-* Texto 1.
-* Texto 2.
+* Zazueta Leyva, Javier. 2006. _Narraciones en voz indígena: cuentos y leyendas guarijío_. San Bernardo, Álamos, Sonora: Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+* Barreras Aguilar, Isabel. 2014. _Makuráwe nawésari. Textos del guarijío de Sonora_. Hermosillo: Universidad de Sonora.
+* Aguilar Zeleny, Alejandro y Buitimea Romero, Gildardo. 2019. _Mamoria macurawe. Páginas para la historia del pueblo macurawe (guarijío) de Sonora_. Hermosillo: Instituto Sonorense de Cultura.
 
 Referencias
 -----
