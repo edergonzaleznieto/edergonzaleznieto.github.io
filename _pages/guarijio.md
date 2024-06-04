@@ -11,7 +11,7 @@ Las localidades donde se habla guarijío en Sonora se ubican al suroeste del est
 
 ![Ubicación del pueblo guarijío (INPI 2022)](/images/ubicacion-guarijio-inpi2022.jpeg)
 <figure style="text-align: center;">
-  <img src="/images/ubicacion-guarijio-inpi2022.jpeg" alt="Ubicación del pueblo guarijío" width="300" style="border: 2px solid black;">
+  <img src="/images/ubicacion-guarijio-inpi2022.jpeg" alt="Ubicación del pueblo guarijío" width="400" style="border: 2px solid black;">
   <figcaption style= "font-size: 10px; cloror: black;">Ubicación del pueblo guarijío (INPI 2022)</figcaption>
 </figure>
 
