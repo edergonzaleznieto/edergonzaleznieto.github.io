@@ -14,4 +14,11 @@ El guarijío es una lengua de la familia lingüística yutoazteca originaria del
 </figure>
 
 Referencias
-=====
+-----
+<div style="text-align: "justify">
+  Haro Encinas, Jesús Armando y Ramón Martínez Coria. 2019. Patrimonio biocultural y despojo terriotrial en el Río Mayo. Los guarijíos de Sonora y el proyecto de presa Los Pilares-Bicentenario. Hermosillo: El Colegio de Sonora; Ciudad de Mexico: Universidad Nacional Autónoma de México.
+  </div>
+
+Instituto Nacional de Estadística y Geografía [INEGI]. 2020. Censo de población y vivienda. Consultado el 01/07/2021. [Disponible en línea](http://cuentame.inegi.org.mx/hipertexto/todas_lenguas.htm).
+
+Instituto Nacional de los Pueblos Indígenas [INPI]. 2015. Atlas de los Pueblos Indígenas de México – Guarijíos – Estadísticas. Consultado el 11/04/2024. [Disponible en línea](http://atlas.inpi.gob.mx/guarijios-estadisticas/).
