@@ -11,8 +11,8 @@ Las localidades donde se habla guarijío en Sonora se ubican al suroeste del est
 
 ![Ubicación del pueblo guarijío (INPI 2022)](/images/ubicacion-guarijio-inpi2022.jpeg)
 <figure style="text-align: center;">
-  <img src="/assets/images/mapa-guarijio.jpg" alt="Mapa de la región Guarijío" width="600" style="border: 2px solid black;">
-  <figcaption>Ubicación del pueblo guarijío (INPI 2022)</figcaption>
+  <img src="/images/ubicacion-guarijio-inpi2022.jpeg" alt="Ubicación del pueblo guarijío" width="300" style="border: 2px solid black;">
+  <figcaption style= "font-size: 10px; cloror: black;">Ubicación del pueblo guarijío (INPI 2022)</figcaption>
 </figure>
 
 De acuerdo con diveros censos, la población que habla la lengua oscila aproximadamente entre 2,100 y 3,000 hablantes distribuidos en ambos estados, aunque la mayoría se concentra en Sonora.
