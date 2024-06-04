@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Eder González Nieto"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Eder González Nieto"
 description              : &description "personal description"
 url                      : "https://edergonzaleznieto.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
